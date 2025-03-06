@@ -1,16 +1,20 @@
-# photo_filter_carousel
+# Praktikum 2 : aplikasi filter menggunakan flutter
 
-A new Flutter project.
+## Deskripsi
+Aplikasi ini merupakan implementasi filter pada Flutter yang bisa mengganti ganti warna filter.
 
-## Getting Started
+## Screenshot Hasil
+![Screenshot aplikasi kamera](assets/hasil.jpg)
 
-This project is a starting point for a Flutter application.
+## Screenshot running
+![Screenshot aplikasi kamera](assets/running.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Penjelasan
+Dalam aplikasi ini saya mengimplementasikan:
+1. Penggunaan plugin camera untuk mengakses kamera perangkat
+2. Implementasi preview kamera secara realtime
+3. Fungsi untuk mengambil foto dan menyimpannya
+4. [Fitur lain yang Anda implementasikan]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tantangan dan Solusi
+[Jelaskan tantangan yang Anda hadapi selama mengembangkan aplikasi ini dan bagaimana Anda mengatasinya]
