@@ -10,11 +10,6 @@ Aplikasi ini merupakan implementasi filter pada Flutter yang bisa mengganti gant
 ![Screenshot aplikasi kamera](assets/running.jpg)
 
 ## Penjelasan
-Dalam aplikasi ini saya mengimplementasikan:
-1. Penggunaan plugin camera untuk mengakses kamera perangkat
-2. Implementasi preview kamera secara realtime
-3. Fungsi untuk mengambil foto dan menyimpannya
-4. [Fitur lain yang Anda implementasikan]
-
-## Tantangan dan Solusi
-[Jelaskan tantangan yang Anda hadapi selama mengembangkan aplikasi ini dan bagaimana Anda mengatasinya]
+1. menambahkan filter pada gambar
+2. bisa memilih filter
+3. filter berupa slider
